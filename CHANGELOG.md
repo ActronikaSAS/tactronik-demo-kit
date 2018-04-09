@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.2] - 2017-06-30
+### Changed
+- Update effect library
+- change url to API documentation
+### Added
+- Add link to dev.actronika.com in menu
+### Removed
+- Don't display value of button in button title
+
 ## [0.4.1] - 2017-06-28
 ### Changed
 - Update description of effect
