@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.6.0] - 2018-01-16
+### Changed
+- Update effect library
+### Added
+- Update unit test to check effect
+- Use libsmp and libtup (new API of tactronik)
+- Add `/tmp/ttyUSB` as serial port (to snif serial port)
+- Display successive frames with two colors
+### Fixed
+- log if effect is not an effect (bad structure)
+
 ## [0.4.3] - 2017-07-10
 ### Changed
 - Update effect library
