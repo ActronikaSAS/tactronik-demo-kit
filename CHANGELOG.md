@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.1] - 2017-06-28
+### Changed
+- Update description of effect
+
 ## [0.4.0] - 2017-06-26
 ### Changed
 - Update effect library
