@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.0] - 2018-04-09
+### Added
+- Add ability to *import*/*export* effects database
+- Add ability to reset database
+- Display version of database
+- Load first preset available when click on an effect
+### Changed
+- Create branch `prod` without internal effect
+
 ## [0.8.0] - 2018-02-15
 ### Added
 - Activate internal sensor of tactronik when connect
