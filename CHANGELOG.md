@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0] - 2018-02-15
+### Added
+- Activate internal sensor of tactronik when connect
+- Update configuration of repository adding `editorconfig` file
+### Changed
+- Refactor effect library to use enum
+
 ## [0.6.0] - 2018-01-16
 ### Changed
 - Update effect library
