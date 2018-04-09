@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.3] - 2017-07-10
+### Changed
+- Update effect library
+
 ## [0.4.2] - 2017-06-30
 ### Changed
 - Update effect library
