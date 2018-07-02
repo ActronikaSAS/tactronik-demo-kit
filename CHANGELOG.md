@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.12.0] - 2018-07-02
+### Added
+- Link sliders between us (link min/max value of one slider to value of
+an other slider)
+
 ## [0.10.0] - 2018-04-09
 ### Added
 - Add ability to *import*/*export* effects database
