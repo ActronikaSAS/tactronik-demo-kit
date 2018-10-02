@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0] - 2018-10-02
+### Added
+- Automatic management of mode (mode proxy or effect) (depend of avr code)
+
+### Changed
+- Change effect to use input instead of sensor raw values
+
 ## [0.12.0] - 2018-07-02
 ### Added
 - Link sliders between us (link min/max value of one slider to value of
