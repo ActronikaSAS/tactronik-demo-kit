@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.16.0] - 2019-04-24
+### Fixed
+- Add delay to get version because hardware need delay
+
 ## [0.14.0] - 2018-10-02
 ### Added
 - Automatic management of mode (mode proxy or effect) (depend of avr code)
