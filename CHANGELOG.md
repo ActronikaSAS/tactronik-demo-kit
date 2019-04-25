@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.18.0] - 2019-04-25
+### Changed
+- Fusion of button import and merge (choose option in modal)
+
 ## [0.16.0] - 2019-04-24
 ### Fixed
 - Add delay to get version because hardware need delay
